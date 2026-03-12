@@ -1,0 +1,6 @@
+C:\Users\fptsh\Downloads\NET\obj\Release\net8.0\NET.csproj.AssemblyReference.cache
+C:\Users\fptsh\Downloads\NET\obj\Release\net8.0\NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fptsh\Downloads\NET\obj\Release\net8.0\NET.AssemblyInfoInputs.cache
+C:\Users\fptsh\Downloads\NET\obj\Release\net8.0\NET.AssemblyInfo.cs
+C:\Users\fptsh\Downloads\NET\obj\Release\net8.0\NET.csproj.CoreCompileInputs.cache
+C:\Users\fptsh\Downloads\NET\obj\Release\net8.0\NET.sourcelink.json
