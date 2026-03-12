@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\contosoPizza\\contosoPizza.csproj": {}
+    "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\ContosoPizza\\contosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\contosoPizza\\contosoPizza.csproj": {
+    "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\ContosoPizza\\contosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\contosoPizza\\contosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\ContosoPizza\\contosoPizza.csproj",
         "projectName": "contosoPizza",
-        "projectPath": "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\contosoPizza\\contosoPizza.csproj",
+        "projectPath": "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\ContosoPizza\\contosoPizza.csproj",
         "packagesPath": "C:\\Users\\fptsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\contosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\fptsh\\Downloads\\BackEnd\\NET\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fptsh\\AppData\\Roaming\\NuGet\\NuGet.Config"
